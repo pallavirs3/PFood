@@ -54,7 +54,7 @@ This platform empowers users to register/login, explore a delicious menu, add it
 
 ### 📦 Place Order Form
 
-![Place Order](assets/Place Order.png )
+![Place Order](assets/Place-Order.png )
 
 ### 📲 Mobile App Section
 
@@ -62,15 +62,15 @@ This platform empowers users to register/login, explore a delicious menu, add it
 
 ### 🧑‍💻 Admin Panel Dashboard
 
-![Admin Panel](assets/admin panel.png)
+![Admin Panel](assets/admin-panel.png)
 
 ### 🍴 Add New Food Item
 
-![Add Items](assets/Add Items.png)
+![Add Items](assets/Add-Items.png)
 
 ### ✅ Confirmation - Item Added
 
-![After Adding Item](assets/After Adding the Food Item.png)
+![After Adding Item](assets/After-Adding-the-Food-Item.png)
 
 ### 🧾 Orders List - Admin Panel
 
@@ -78,7 +78,7 @@ This platform empowers users to register/login, explore a delicious menu, add it
 
 ### 📃 My Orders (User View)
 
-![My Orders](assets/My Orders- Order Placed.png)
+![My Orders](assets/My-Orders-Order-Placed.png)
 
 ### 📄 List of Food Items
 
@@ -86,7 +86,7 @@ This platform empowers users to register/login, explore a delicious menu, add it
 
 ### 🔌 Backend Server Connection
 
-![Backend Connected](assets/Backend Connected.png)
+![Backend Connected](assets/Backend-Connected.png)
 
 ---
 
