@@ -82,7 +82,7 @@ This platform empowers users to register/login, explore a delicious menu, add it
 
 ### 📄 List of Food Items
 
-![List Items](./screenshots/List%20Items.png)
+![List Items](./screenshots/List-Items.png)
 
 ### 🔌 Backend Server Connection
 
